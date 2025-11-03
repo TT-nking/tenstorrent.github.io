@@ -1,4 +1,4 @@
-Galaxy
+Product Name
 =======================================
 
 .. toctree::
@@ -7,3 +7,4 @@ Galaxy
    specifications
    setup
    support
+

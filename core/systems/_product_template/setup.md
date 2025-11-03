@@ -1,4 +1,4 @@
-## Galaxy Setup
+## Product Setup
 
 Provide setup steps here:
 1. Unpack and inspect contents
