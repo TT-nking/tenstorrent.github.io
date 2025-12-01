@@ -1,9 +1,0 @@
-Galaxy
-=======================================
-
-.. toctree::
-   :maxdepth: 2
-
-   specifications
-   setup
-   support

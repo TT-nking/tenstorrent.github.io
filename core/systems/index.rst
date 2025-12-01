@@ -9,5 +9,5 @@ Systems
    t3000/index
    t1000/index
    t7000/index
-   galaxy/index
+   tenstorrent-galaxy/index
    
