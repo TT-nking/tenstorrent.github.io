@@ -7,8 +7,6 @@ Tenstorrent Galaxy
    specifications
    installation-power-environmental
    software-setup-configuration
-   cabling-configuration
-   per-tray-isolation-release
    compliance-safety-notices
 
 Download User Guide
